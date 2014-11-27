@@ -1,0 +1,32 @@
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmPrincipal.resources
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\adm\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\notepad.frmPrincipal.resources
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.exe
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.pdb
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.exe
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.pdb
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.exe
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.pdb
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.exe
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.pdb
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\notepad.frmPrincipal.resources
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\notepad.Properties.Resources.resources
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GDrive\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.exe
+D:\GDrive\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyNotepad.pdb
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.exe.config
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
